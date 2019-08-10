@@ -12,8 +12,6 @@
 
 [hundredblocks/semantic-search](<https://github.com/hundredblocks/semantic-search>) 
 
----
-
 ## 知识图谱
 
 ### 相关文章
