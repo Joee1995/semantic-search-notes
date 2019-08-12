@@ -1,5 +1,7 @@
 # 汇总
 
+> WARNING：本仓库所有 `.md` 文档由 [Typora](<https://www.typora.io/>) 软件编写，部分内容（包括但不仅限于公式）可能无法在 GitHub 上正常显示！！！
+
 ## 语义搜索系统
 
 **综述**
@@ -64,7 +66,7 @@
 
 笔记：[W3Cschool - RDF 教程笔记](./w3cschool-rdf-tutorial-notes.md) 
 
-[W3C - RDF 的 SPARQL 查询语言](<https://www.w3.org/TR/rdf-sparql-query/>) 
+[W3C - RDF 的 SPARQL 查询语言（25/41）](<https://www.w3.org/TR/rdf-sparql-query/>) 
 
 笔记：[W3C - RDF 的 SPARQL 查询语言](./w3c-rdf-query-language-sparql.md) 
 
@@ -100,7 +102,7 @@
 
 ### 工具
 
-[Virtuoso SPARQL 查询编辑器](<http://dbpedia.org/sparql>) 
+[Virtuoso SPARQL Query Editor](<http://dbpedia.org/sparql>) 
 
 [SPARQL Explorer for DBpedia](<http://dbpedia.org/snorql/>) 
 
@@ -108,15 +110,17 @@
 
 ### DBpedia
 
+[DBpedia](<https://wiki.dbpedia.org/>) 
+
 [SourceForge - DBpedia](<https://sourceforge.net/projects/dbpedia/>) 
 
 [GitHub - DBpedia](<https://github.com/dbpedia>) 
 
 [DBpedia 学习笔记](<https://max.book118.com/html/2017/0524/108693388.shtm>) 
 
-[DBpedia - 从维基百科中提取的大型多语言知识库](<http://svn.aksw.org/papers/2013/SWJ_DBpedia/public.pdf>) 
+[DBpedia – A Large-scale, Multilingual Knowledge Base Extracted from Wikipedia](<http://svn.aksw.org/papers/2013/SWJ_DBpedia/public.pdf>) 
 
-[DBpedia和维基百科结构化数据的实时提取](<http://jens-lehmann.org/files/2012/program_el_dbpedia_live.pdf>) 
+[DBpedia and the Live Extraction of Structured Data from Wikipedia](<http://jens-lehmann.org/files/2012/program_el_dbpedia_live.pdf>) 
 
 ## 语义表示
 
